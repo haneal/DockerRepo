@@ -1,8 +1,8 @@
 # docker 빌드 하기 (이미지 생성)
 -----
 
-https://github.com/haneal/DockerRepo/blob/master/img/1_docker_pull_ubuntu_latest.png
-https://github.com/haneal/DockerRepo/blob/master/img/2_docker_pull_ubuntu_latest.png
+!https://github.com/haneal/DockerRepo/blob/master/img/1_docker_pull_ubuntu_latest.png
+!https://github.com/haneal/DockerRepo/blob/master/img/2_docker_pull_ubuntu_latest.png
 
 
 
