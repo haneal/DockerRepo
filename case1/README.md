@@ -16,7 +16,7 @@ Docker 허브에 올라온 ubuntu 이미지를 받습니다.
 이제 컨테이너를 생성합니다. 
 ![](https://github.com/haneal/DockerRepo/blob/master/img/4.docker%20%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%EC%83%9D%EC%84%B1.png)
 ![](https://github.com/haneal/DockerRepo/blob/master/img/9.run_server_2%EC%83%9D%EC%84%B1.png)
-  *-d detach백그라운드에서 컨테이너를 실행하고 컨테이너 ID를 출력한다.
+  *-d detach백그라운드에서 컨테이너를 실행하고 컨테이너 ID를 출력한다.<br>
   *-t(Pseudo-tty) 옵션을 사용하면 실행된 Bash 셸에 입력 및 출력을 할 수 있습니다.
 
 # docker 컨테이너로 접속하기
