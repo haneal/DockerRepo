@@ -42,7 +42,7 @@ attach로 접속
 
 # docker 컨테이너간 네트워크 연결
 -----
-네트워크 그룹과 도커 Run 을 한번 더 확인합니다.
+네트워크 그룹과 도커 컨테이너에 생성된 서브넷을 확인합니다.
 ![](https://github.com/haneal/DockerRepo/blob/master/img/3.2.docker-ls.png)
 ![](https://github.com/haneal/DockerRepo/blob/master/img/3_3_network%20create%20netowrk-group.png)
 
