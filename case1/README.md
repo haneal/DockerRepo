@@ -1,9 +1,9 @@
 # docker 빌드 하기 (이미지 생성)
 -----
-도커허브에서 설치후 ubuntu 이미지를 받습니다.
+Docker 허브에 올라온 ubuntu 이미지를 받습니다.
 ![](https://github.com/haneal/DockerRepo/blob/master/img/1_docker_pull_ubuntu_latest.png)
 
-도커 이미지를 생성합니다.
+이미지가 정상적으로 다운로드 되었는지 확인합니다.
 ![](https://github.com/haneal/DockerRepo/blob/master/img/2_docker_pull_ubuntu_latest.png)
 
 
