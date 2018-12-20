@@ -24,3 +24,24 @@ exec로 접속
 
 attach로 접속
 ![](https://github.com/haneal/DockerRepo/blob/master/img/7.attach.png)
+
+
+# docker 컨테이너간 네트워크 연결
+-----
+네트워크 그룹을 생성합니다.(Docker 컨테이너를 만들기전에 그룹을 먼저 만들어줍니다.)
+![](https://github.com/haneal/DockerRepo/blob/master/img/3_1network%20create%20netowrk-group.png)
+
+그룹이 생성된것을 확인합니다.
+![](https://github.com/haneal/DockerRepo/blob/master/img/3.2.docker-ls.png)
+![](https://github.com/haneal/DockerRepo/blob/master/img/3_3_network%20create%20netowrk-group.png)
+
+
+
+각각의 컨테이너 websevser 접속해서 ip정보를 확인합니다.
+![](https://github.com/haneal/DockerRepo/blob/master/img/8.network_ifconfig_1.png)
+![](https://github.com/haneal/DockerRepo/blob/master/img/11.network_ifconfig.png)
+
+ping을 통해 서로간 통신을 확인합니다.
+![](https://github.com/haneal/DockerRepo/blob/master/img/13.network_ping_2.png)
+![](https://github.com/haneal/DockerRepo/blob/master/img/12.network_ping.png)
+
