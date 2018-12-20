@@ -20,7 +20,7 @@ Docker 허브에 올라온 ubuntu 이미지를 받습니다.
 # docker 컨테이너로 접속하기
 -----
 exec로 접속
-https://github.com/haneal/DockerRepo/blob/master/img/6.docker_exec.png
+![](https://github.com/haneal/DockerRepo/blob/master/img/6.docker_exec.png)
 
 attach로 접속
-https://github.com/haneal/DockerRepo/blob/master/img/7.attach.png
+![](https://github.com/haneal/DockerRepo/blob/master/img/7.attach.png)
